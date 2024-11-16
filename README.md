@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Cass
 - 👀 I’m interested in Web & Game development
-- 🌱 I’m currently learning Python, Javascript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Python, HTML, and CSS.
 - ⚡ Fun fact: I have a cat named Noelle.
 
 <!---
